@@ -1,0 +1,12 @@
+El patrón Singleton se utiliza para no permitir que existan múltiples instancias de una clase, sino solamente una.
+
+Es quizás uno de los patrones de diseño más sencillos, es también uno de los más conocidos y utilizados. Ofrece una mejora sobre las variables globales. 
+Su propósito es asegurar que sólo exista una instancia de una clase, hace que la clase sea responsable de su única instancia, 
+se le conoce tambien como patrón de instancia unica.
+
+Garantiza que una clase sólo tenga una instancia y proporciona un punto de acceso global a ésta instancia.
+
+Usar cuando:
+
+Deba haber exactamente una instancia de una clase y ésta deba ser accesible a los clientes desde un punto de acceso conocido.
+La única instancia debería ser extensible mediante herencia y los clientes deberían ser capaces de utilizar una instancia extendida sin modificar su código.
