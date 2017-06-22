@@ -1,0 +1,3 @@
+Los patrones de diseño creacionales se centran en resolver problemas acerca de cómo crear ejemplificaciones de las clases en las aplicaciones.
+
+Los patrones creacionales son patrones que abstraen el proceso de ejemplificación. Procuran independizar el sistema de cómo sus objetos son creados, compuestos y representados. Encapsulan conocimientos sobre clases concretas usadas por el sistema.
