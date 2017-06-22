@@ -1,0 +1,5 @@
+El patrón Prototype o Prototipo resuelve el problema de duplicar objetos ya creados con anterioridad.
+
+ Especificar el tipo de objetos a crear utilizando un prototipo de ejemplo, y crear nuevos objetos copiando este prototipo.
+ 
+ Se debe usar este patrón cuando un sistema deba ser independiente de cómo se crean, se componen y se representan sus productos, y además: cuando las clases a instanciar sean especificadas en tiempo de ejecución.Para evitar construir una jerarquía de clases de fábricas paralela a la jerarquía de clases de producto. Cuando las instancias de una clase puedan tener uno de entre sólo unos pocos estados diferentes.
