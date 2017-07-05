@@ -10,6 +10,7 @@ Una clase no puede anticipar la clase de objetos que debe crear.
 Se necesita que las subclases especifiquen los objetos a ser creados
 
 Diagrama de clases:
+
 ![patrón Factory](https://github.com/cdaza/patrones/blob/master/PatronesJava/Patrones%20Creacionales/PatronFabrica/DiagramaClasesFabricaOriginal.jpg)
 
 Diagrama de clases ejemplo:
