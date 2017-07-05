@@ -10,3 +10,5 @@ Se usa cuando:
 
 El algoritmo para crear un objeto complejo debe ser independiente de las partes que constituyen el objeto y su ensamblaje.
 El proceso de construcción debe permitir representaciones diferentes del objeto construido.
+
+![Una imagen cualquiera](http://dummyimage.com/150 "De 150 x 150 píxeles")
