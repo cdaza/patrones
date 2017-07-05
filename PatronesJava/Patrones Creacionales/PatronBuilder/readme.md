@@ -11,4 +11,10 @@ Se usa cuando:
 El algoritmo para crear un objeto complejo debe ser independiente de las partes que constituyen el objeto y su ensamblaje.
 El proceso de construcción debe permitir representaciones diferentes del objeto construido.
 
-![alt text](https://github.com/cdaza/patrones/blob/master/PatronesJava/Patrones%20Creacionales/PatronBuilder/DiagramaClasesBuilder.png)
+Diagrama de clases:
+
+![Diagrama de clases patrón Builder](https://github.com/cdaza/patrones/blob/master/PatronesJava/Patrones%20Creacionales/PatronBuilder/DiagramaClasesBuilderOriginal.jpg)
+
+Diagrama de clases Ejemplo:
+
+![patrón Builder](https://github.com/cdaza/patrones/blob/master/PatronesJava/Patrones%20Creacionales/PatronBuilder/DiagramaClasesBuilder.png)
